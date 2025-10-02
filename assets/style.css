@@ -157,8 +157,8 @@ body {
     display: flex;
     align-items: center;
     padding: -10px;
-     box-shadow: 10px 10px 60px rgba(51, 200, 182, 0.722);
-}
+    filter:drop-shadow(10px 10px 20px rgba(51, 200, 182, 0.722));
+  }
 
 #my-image img {
     width: 500px;
